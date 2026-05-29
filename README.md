@@ -189,7 +189,7 @@ Modern MERN-based e-commerce platform with authentication and dynamic product ma
 # 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Aayush98-dev&theme=onedark"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Aayush98-dev&theme=matrix"/>
 </p>
 
 ---
