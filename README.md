@@ -188,9 +188,7 @@ Modern MERN-based e-commerce platform with authentication and dynamic product ma
 
 ## 🏆 GitHub Trophies
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Aayush98-dev&theme=tokyonight&no-frame=true&row=1&column=7" />
-</p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=Aayush98-dev&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
